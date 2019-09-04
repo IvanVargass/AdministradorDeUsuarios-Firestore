@@ -2,9 +2,9 @@
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
   // Estos datos seran proporcionados al momento en que se crea la aplicación en Firebase
-  apiKey: '',
-  authDomain: '',
-  projectId: ''
+  apiKey: 'AIzaSyAWiIj4MU7YxkUFwTF7PaECSqaeHNHCebk',
+  authDomain: 'proyectousuariosfirestore.firebaseapp.com',
+  projectId: 'proyectousuariosfirestore'
 });
 
 // Da inicio a la base de datos

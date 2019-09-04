@@ -1,7 +1,7 @@
 
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
-  // Estos datos seran proporcionados al momento en que crear la aplicación en Firebase
+  // Estos datos seran proporcionados al momento en que se crea la aplicación en Firebase
   apiKey: '',
   authDomain: '',
   projectId: ''

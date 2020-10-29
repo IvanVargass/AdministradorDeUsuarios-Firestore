@@ -1,13 +1,13 @@
 # AdministradorDeUsuarios-Firestore
 Administrador de usuarios utilizando HTML5, CSS, JavaScript, Boostrap 4 y Firestore.
 
-Este repositorio está orientado a compartir códigos que ayuden y faciliten a toda persona interesada en el manejo de las bases de datos en tiempo real utilizando Firestore de Firebase. En la parte del index se encuentra todas las etiquetas html y clases CSS utilizadas de boostrap 4, para la elaboración del formulario de registro y la tabla de visualización de usuarios. En el archivo de app.js se encuentra todas las funciones y algoritmos utilizados para realizar el respectivo registro, modificación, eliminación y visualización de datos de usuarios guardados en la base de datos de Firestore.
+Este repositorio está orientado a compartir códigos que ayuden y faciliten a toda persona interesada en el manejo de las bases de datos en tiempo real utilizando Firestore de Firebase. En la parte del index se encuentra todo el código Frontend, para la elaboración del formulario de registro y la tabla de visualización de usuarios. En el archivo de app.js se encuentra todas las funciones y algoritmos utilizados para realizar el respectivo CRUD (registro, modificación, eliminación y visualización de datos de usuarios guardados en la base de datos de Firestore).
 
 # Aplicación Web
-Para poder observar e interactuar con la aplicación desarrollada, por favor acceder al siguiente link:
+Para interactuar con la aplicación desarrollada, por favor acceder al siguiente link:
 https://proyectousuariosfirestore.firebaseapp.com/
 
-# Boostrap 4
+# Bootstrap 4
 Para mas información sobre el framework utilizado para la clases CSS y el diseño responsive, por favor dirigirse al siguiente link: https://getbootstrap.com/
 
 # Firestore
